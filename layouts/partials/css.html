@@ -1,0 +1,71 @@
+
+<style>
+header {
+
+  background-image: url("/images/FloridaRoom.jpg");
+  background-repeat: no-repeat;
+  background-position: relative;
+  background-size: cover;
+  height: 100vh;
+}
+.about {
+  background-image: url("/images/BannerDianaListing.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80%;
+  height: 80vh;
+  padding: 0 1rem 0 1rem;
+}
+.gallery img {
+  padding: .5rem;
+
+}
+
+header h1 {
+  margin-top: 0;
+}
+
+
+@media only screen and (max-width: 768px) {
+  header {
+  height: 40vh;
+  }
+}
+@media only screen and (max-width: 1024px) {
+ .about {
+  height: 40vh;
+  }
+  nav {
+   position: fixed;
+   overflow: hidden;
+
+  }
+}
+
+table {
+    width: 70%;
+    margin-left:15%;
+    margin-right:10%;
+
+}
+
+.about .container{
+  padding-bottom: 0;
+  margin-top: 0;
+}
+
+.google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+</style>
