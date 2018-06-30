@@ -6,13 +6,15 @@ linktitle: Residential Detail
 title: Residential Detail
 weight: 10
 ---
-|                          |         |
-|--------------------------|---------|
-|MLS Number &emsp; A10493120 |Status &emsp; For Sale|
-|Offered At &emsp; $3,100,000.00|Built &emsp; 1984|
-|Bedrooms &emsp; 5|Pool &emsp; 1|
-|Bathrooms &emsp; 6-1|Total SF &emsp; 6,445|
-|Living Area Adjusted &emsp; 5,875 sf|
+## Residence Overview
+* MLS Number  A10493120
+* Built  1984
+* Offered At $3,100,000.00
+* Bedrooms 5
+* Bathrooms 6-1/2
+* Pool
+* Living Area Adjusted 5,875 sf
+* Totl Square Feet 6,445
 
 ## 435 Tivoli, Coral Gables, FL 33143
 
