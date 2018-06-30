@@ -35,6 +35,7 @@ Coral Gables first contemporary home approved in 1984.  This spectacular structu
 |* New roof completed in June 2018 by AJ Palmer roofing using BOREAL fiberglass re-enforced concrete roof tiles|* BISAZZA Italian Glass tiles in bathrooms
 |* PGT storm windows and doors with low energy-saving reflective glass
 
+## LOCATION
 
 <div class="google-maps">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.991247443682!2d-80.2649836868366!3d25.70471381723448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9c81a5ff62d0b%3A0x9d8bb8851f6eca29!2s435+Tivoli+Ave%2C+Coral+Gables%2C+FL+33143!5e0!3m2!1sen!2sus!4v1530119425798" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
