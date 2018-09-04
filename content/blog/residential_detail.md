@@ -22,7 +22,7 @@ Coral Gables first contemporary home approved in 1984.  This spectacular structu
 
 ### SPECIAL FEATURES
 
-|          |
+|              |                              |
 |--------------|------------------------------|
 |* Duravit German sinks and Toilets throughout the 7 bathrooms|* Pedini Italian design kitchen, central work space island
 |* Full Audio system with 4 zones both outdoor and ground floor by NUVO|* TV's with surround sound speakers
