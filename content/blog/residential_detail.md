@@ -22,13 +22,13 @@ Coral Gables first contemporary home approved in 1984.  This spectacular structu
 
 ### SPECIAL FEATURES
 
-|          |           
+|          |
 |--------------|------------------------------|
 |* Duravit German sinks and Toilets throughout the 7 bathrooms|* Pedini Italian design kitchen, central work space island
 |* Full Audio system with 4 zones both outdoor and ground floor by NUVO|* TV's with surround sound speakers
 |* Home is fully wired with CAT 6 fiber optic cables into Media & Security room|* 6 security camaras with DVR storage covering all access to home
 |* Engineered stone commercial-grade tile by IBERIA on floors & bathroom walls|* Outdoor landscape design done by Justin Velez, of UrbanRobot associates
-|* Indoor design done by owners working with Albert Knoepfler, of ACKarchiture|* Full outdoor kitchen kith built-in LYNX Grill, Sink and outdoor refrigerator
+|* Indoor design done by owners working with Albert Knoepfler, of ACKarchiture|* Full outdoor kitchen with built-in LYNX Grill, Sink and outdoor refrigerator
 |* 275 bottle count wine storage with 3 temperature zone by Lebbherr|* All Sub-Zero/Wolf kitchen appliances
 |* LED outdoor lighting by Yard Century Lighting|* Extra large Western Douglas green Fir ceiling beams with steel tie-downs
 |* 18" concrete slab throughout ground floor (TBD)|* 500 gallon gas propane underground tank
