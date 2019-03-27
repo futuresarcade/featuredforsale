@@ -1,4 +1,4 @@
-title = "435 Tivoli Coral Gables FL 33143"
+title = "930 Andalusia Coral Gables 33134"
 baseURL = "https://www.featuredlisting.forsale"
 tags = ["Coral Gables", "Modernist","Real Estate","Luxury living"]
 languageCode = "en-US"
@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     linkedin = ""
     github = ""
     facebook = ""
-    email = ""
+    email = "o"
     googleTagManger = ""
     highlightJS = true
     copyright = true
