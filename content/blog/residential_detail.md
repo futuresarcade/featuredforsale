@@ -11,31 +11,30 @@ weight: 10
 
 * MLS Number
 * Built 1955
-* Offered At $1,475,000.00
+* Offered At $1,395,000.00
 * Bedrooms 4
 * Bathrooms 5-1/2
 * Pool
-* Living Area Adjusted 2,926 sf
-* Totl Square Feet
+* Living Area Adjusted 3,211 sf
+* Total Square Feet 3,424 sf
+* Lot 11,300
 
 ## 930 Andalusia, Coral Gables, Fl. 33134
 
-Fall in love with this captivating oak filled home and its location, walking distance to downtown Coral Gables, 2 blocks away from Salvador Park and Tennis Courts, close to the Venetian Pool, open kitchen with long counter that feeds into large family room w/high wood beams, elegant formal dining room overlooks pool, remodeled bathrooms, wood burning fireplace and crown molding throughout, impact resistant windows and accordion shutters.
-
+Fall in love with this captivating oak filled home and its location, walking distance to downtown Coral Gables, 2 blocks away from Salvador Park and Tennis Courts, close to the Venetian Pool, open kitchen with long counter that feeds into large family room with high wood beam ceilings, elegant formal dining room overlooks pool, remodeled bathrooms, wood burning fireplace and crown molding throughout, impact resistant windows and accordion shutters.
 ## SPECIAL FEATURES
 
-* Audio system with sound speakers
 * Coral rock terrace
 * Outdoor designed landscape filled with oak trees
-* In suite bathrooms
+* En suite bathrooms
 * Wine Cooler
 * Stainless steel appliances
 * Outdoor lighting
 * High wood beam ceilings
 * Mexican tile and wood flooring
 * Heated pool
-*Fireplace
-* 2 TRANE AC units
+* Fireplace
+* 2 AC units
 * Tile roof
 * Beautiful newly remodeled bathrooms
 * Storm windows and doors with low energy-saving reflective glass
