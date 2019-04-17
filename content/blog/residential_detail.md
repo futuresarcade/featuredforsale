@@ -1,7 +1,7 @@
 ---
 title: "Residential_detail"
 date: 2018-06-18T09:28:30-04:00
-draft: false
+draft: true
 linktitle: Residential Detail
 title: Residential Detail
 weight: 10
