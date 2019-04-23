@@ -1,7 +1,7 @@
 ---
 title: "Residential_detail"
 date: 2018-06-18T09:28:30-04:00
-draft: true
+draft: false
 linktitle: Residential Detail
 title: Residential Detail
 weight: 10
@@ -9,7 +9,7 @@ weight: 10
 
 ## Residence Overview
 
-* MLS Number
+* MLS Number A10660496
 * Built 1955
 * Offered At $1,395,000.00
 * Bedrooms 4
