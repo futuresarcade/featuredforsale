@@ -17,7 +17,7 @@ weight: 10
 * Pool
 * Living Area Adjusted 3,211 sf
 * Total Square Feet 3,424 sf
-* Lot 11,300
+* Lot 13000
 
 ## 930 Andalusia, Coral Gables, Fl. 33134
 
